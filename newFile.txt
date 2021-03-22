@@ -1,1 +1,1 @@
-this is new file addded to git repo
+new file created to add to repo
