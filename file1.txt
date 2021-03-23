@@ -4,3 +4,10 @@ a new line added by developer 2
 =======
 A line added by developer 1 which will be committed and pushed
 >>>>>>> 6748ed143d5b551ae9809a20292ba6823a8fb99f
+
+
+
+
+
+
+fourth line added here 
