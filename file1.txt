@@ -1,1 +1,2 @@
 hello everyone this is file1 created by developer1
+A line added by developer 1 which will be committed and pushed
