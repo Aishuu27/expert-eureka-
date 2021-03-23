@@ -1,2 +1,6 @@
 hello everyone this is file1 created by developer1
+<<<<<<< HEAD
 a new line added by developer 2
+=======
+A line added by developer 1 which will be committed and pushed
+>>>>>>> 6748ed143d5b551ae9809a20292ba6823a8fb99f
